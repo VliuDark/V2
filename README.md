@@ -30,7 +30,7 @@ This Is A WhatsApp Bot With Baileys From [`@adiwajshing/baileys-md`](https://git
 <p align="center">
   <a href="https://instagram.com/fandyyy._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/message/FDEA65XQNZMAF1"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://chat.whatsapp.com/BhOYdoWNRFC4n4bdsEexlV"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://chat.whatsapp.com/Cyy7ERb3iZZEOSEdSRP2BW"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://youtube.com/channel/UCjxavxEQa1Wd9A4J9tOmATA"><img src="https://img.shields.io/badge/YouTube-Ryuuka Botz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/RyuukaBotz" /><br>
   <a name=Ryuuka Botz&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/R-TEAM94"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
